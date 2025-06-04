@@ -47,7 +47,7 @@
 - O botão "Verificar" na tela de reserva apenas simula uma ação.
 - Os dados são salvos apenas no navegador (sem banco de dados real).
 
----
+---https://github.com/iris-oli/Airline.git 
 
 ## 📄 Licença
 
